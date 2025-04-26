@@ -155,9 +155,4 @@ Made with ❤️ by [Narges vahdani](https://github.com/nargesghv)
 
 ---
 
-✅ **This project demonstrates full real-world AI, Cloud, and BI integration.**
-✅ **Ready for professional portfolio, CV, LinkedIn, and recruiters!**
-
----
-
 > _Feel free to fork, star ⭐, and collaborate!_ 🚀
