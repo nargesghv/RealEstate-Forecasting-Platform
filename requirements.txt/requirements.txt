@@ -1,0 +1,10 @@
+azure-storage-blob
+pyodbc
+pandas
+numpy
+fastapi
+uvicorn
+joblib
+faiss-cpu
+xgboost
+kagglehub
